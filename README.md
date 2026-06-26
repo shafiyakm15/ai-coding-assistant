@@ -151,9 +151,5 @@ ai-coding-agent/
 * Docker deployment
 * Cloud-hosted API support
 
----
 
-## 📜 License
-
-This project is intended for educational and research purposes.
 
